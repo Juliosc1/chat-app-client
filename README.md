@@ -1,3 +1,23 @@
+Welcome to the Chatroom.
+To start the chatroom, you need to start both backend and frontend.
+
+Frontend is created in react and written in javascript. The style is done with Tailwind.
+The backend is written in Java with Spring Boot.
+
+To get started:
+1. Chat-app-client: npm start
+
+2. clone the backend project, chat-app-server from Github.
+  https://github.com/Juliosc1/chat-app-server
+
+3. Start Intellij and press run.
+
+4. When both projects are up and running, open your web browser.
+
+5. Go to localhost:3000. Open two windows and start to chat.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
